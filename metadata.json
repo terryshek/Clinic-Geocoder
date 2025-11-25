@@ -1,0 +1,5 @@
+{
+  "name": "Clinic Geocoder & Dashboard",
+  "description": "A data processing tool that utilizes the Gemini API to geocode clinic addresses, filling in missing Latitude and Longitude data for the provided dataset.",
+  "requestFramePermissions": []
+}
